@@ -2,7 +2,8 @@
 <p align="left">
 <img src="[https://github.com/yebigithub/yebigithub/blob/main/线条小狗.gif](https://github.com/MautushiD/MautushiD/blob/main/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif)" align="right">
   
-<p align="left"><!--
+<p align="left">
+<!--
 **MautushiD/MautushiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
