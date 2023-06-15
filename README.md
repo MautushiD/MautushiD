@@ -1,9 +1,14 @@
-<p align="right">
-  <img src="https://github.com/MautushiD/MautushiD/blob/main/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" align="right" style="height: 20%;">
-</p>
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi There!
+======================================================================================================================================
 
-  
-<p align="left">
+<img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
+
+<br>
+<br>
+<br>
+
+About me
+--------
  
 ### Hi there 👋
 I’m Mautushi Das
