@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://github.com/MautushiD/MautushiD/blob/main/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" align="right" style="height: 50%;">
+  <img src="https://github.com/MautushiD/MautushiD/blob/main/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" align="right" style="height: 20%;">
 </p>
 
   
