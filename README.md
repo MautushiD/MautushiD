@@ -16,6 +16,6 @@ About me
   - 🌱 I’m currently working in The lab of Animal Data Sciences.
   - 💞️ My work on Computer Vision, Data analysis and Machine Learning
   - 📫 How to reach me mautushid@vt.edu :woman_student:
-  - 😄 Pronouns: MOU - TU - SHE
+  - 😄 Pronouns: MOU - TO - SHE
   - ⚡ Fun fact: Nothing :zany_face: 
 </p>
