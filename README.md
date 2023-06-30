@@ -12,9 +12,9 @@ About me
  
 
 ### I’m Mautushi Das
-  - 🔭 I’m currently a Ph.D. student in the School of Animal Sciences at Virginia Tech
-  - 🌱 I’m currently working in The lab of Animal Data Sciences.
-  - 💞️ My work on Computer Vision, Data analysis and Machine Learning
+  - 🔭 I’m currently a Ph.D. student in the School of Animal Sciences at Virginia Tech.
+  - 🌱 I’m currently working in The lab of Animal Data Sciences (ADS) .
+  - 💞️ My work on Computer Vision, Data analysis and Machine Learning.
   - 📫 How to reach me mautushid@vt.edu :woman_student:
   - 😄 Pronouns: MOU - TO - SHE
   - ⚡ Fun fact: Nothing :zany_face: 
