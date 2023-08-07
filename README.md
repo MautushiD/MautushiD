@@ -17,5 +17,5 @@ About me
   - 💞️ My work on Computer Vision, Data analysis and Machine Learning.
   - 📫 How to reach me mautushid@vt.edu :woman_student:
   - 😄 Pronouns: MOU - TO - SHE
-  - ⚡ Fun fact: Nothing :zany_face: 
+  - ⚡ Fun fact: Nothing but crazy :zany_face: 
 </p>
