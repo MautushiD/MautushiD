@@ -1,5 +1,19 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi There!
 ======================================================================================================================================
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+  <body>
+    
+
+<img width=100% src="welcome.svg" color="00bfbf">
+
+<div align="center">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello visitors.+My+name+is+Mautushi+Das.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg)
+		  
+</div>
 
 <img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
 
