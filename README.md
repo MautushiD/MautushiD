@@ -5,7 +5,7 @@
   <body>
     
 
-<img width=50% src="welcome.svg" color="00bfbf">
+<img width=90% src="welcome.svg" color="00bfbf">
 
 <div align="center">
 	
