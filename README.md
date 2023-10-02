@@ -5,7 +5,7 @@
   <body>
     
 
-<img width=100% src="Screenshot 2023-10-02 at 12.58.16 PM.png" color="00bfbf">
+<img width=100% src="gandhis-three-monkeys-emoji-icon-260nw-2031682802.webp" color="00bfbf">
 
 <div align="center">
 	
