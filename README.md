@@ -5,7 +5,7 @@
   <body>
     
 
-<img width=100% src="welcome.svg" color="00bfbf">
+<img width=100% src="uspm_feature_stayingpositive (1).webp" color="00bfbf">
 
 <div align="center">
 	
