@@ -4,14 +4,14 @@
  </head>
   <body>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact)](https://github.com/johnDoe/github-readme-stats)
+
 
 <img width=100% src="mad.png" color="00bfbf">
 
 <div align="center">
 	
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+visitors+,+Welcome+to+my+profile.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg) -->
-		  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mautushid&layout=compact)](https://github.com/mautushid/github-readme-stats)	  
 </div>
 
 	  
