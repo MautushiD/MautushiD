@@ -4,6 +4,7 @@
  </head>
   <body>
     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&layout=compact)](https://github.com/johnDoe/github-readme-stats)
 
 <img width=100% src="mad.png" color="00bfbf">
 
