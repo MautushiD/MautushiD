@@ -11,7 +11,7 @@
 <div align="center">
 	
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+visitors+,+Welcome+to+my+profile.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg) -->
-[![Mautushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mautushid)](https://github.com/mautushid/github-readme-stats)	  
+	  
 </div>
 
 	  
@@ -33,3 +33,4 @@
   - 😄 Pronouns: MOU-TO-SHE 
   - ⚡ Fun fact: Nothing but crazy :zany_face: 
 </p>
+[![Mautushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mautushid)](https://github.com/mautushid/github-readme-stats)
