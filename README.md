@@ -11,14 +11,14 @@
 <div align="center">
 	
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+visitors+,+Welcome+to+my+profile.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg) -->
-	  
+ 
 </div>
 
 	  
 <!-- Start My Basic Information -->
 <section>
 <img align="left" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
-[![Mautushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mautushid)](https://github.com/mautushid/github-readme-stats)<br>
+<br>
 
 ### About me
 --------
@@ -31,4 +31,8 @@
   - 😄 Pronouns: MOU-TO-SHE 
   - ⚡ Fun fact: Nothing but crazy :zany_face: 
 </p>
-
+<div align="center">
+	
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+visitors+,+Welcome+to+my+profile.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg) -->
+[![Mautushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mautushid)](https://github.com/mautushid/github-readme-stats)  
+</div>
