@@ -26,10 +26,7 @@
   - 🌱 I’m currently working in The lab of Animal Data Sciences (ADS) .
   - 💞️ My work is focused on Computer Vision, Data analysis and Machine Learning.
   - 📫 How to reach me mautushid@vt.edu :woman_student:
-  - 😄 Pronouns: MOU-TO-SHE 
-  - ⚡ Fun fact: Nothing but crazy :zany_face: 
-</p>
-<div align="center">
+  <div align="center">
 	
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+visitors+,+Welcome+to+my+profile.&size=35&height=70&width=800&font=Roboto)](https://git.io/typing-svg) -->
 
