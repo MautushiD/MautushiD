@@ -4,7 +4,8 @@
  </head>
   <body>
     
-<img width=50% src="mad.png" color="00bfbf">
+<img width="100%" height="60%" src="mad.png" color="00bfbf">
+
 
 <div align="center">
 	
