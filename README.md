@@ -5,7 +5,7 @@
   <body>
     
 <div align="center">
-    <img src="mad.png" alt="Description" style="width: 200%; max-height: 100%;">
+    <img src="mad.png" alt="Description" style="width: 100%; max-height: 20%;">
 </div>
 
 
