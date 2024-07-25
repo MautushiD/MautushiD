@@ -24,7 +24,7 @@
 
  
 #### Hi there :wave: This is Mautushi Das
-  - 🔭 I’m currently a 2nd year Master's student in the School of Animal Sciences at Virginia Tech.
+  - 🔭 I completed my Master's in the School of Animal Sciences at Virginia Tech (June 2024).
   - 🌱 I’m currently working in The lab of Animal Data Sciences (ADS) .
   - 💞️ My work is focused on Computer Vision, Data analysis , Machine Learning, and Deep Learning.
   - 📫 How to reach me mautushid@vt.edu :woman_student:
