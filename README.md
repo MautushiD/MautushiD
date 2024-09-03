@@ -24,7 +24,7 @@
 
  
 #### Hi there :wave: This is Mautushi Das
-  - 🔭 I completed my Master's from Virginia Tech (June 2024).
+  - 🔭 I completed my Master's from Virginia Tech (July 2024).
   - 🌱 I worked in The lab of Animal Data Sciences (ADS) .
   - 💞️ My work was focused on Computer Vision, Data analysis , Machine Learning, and Deep Learning.
   - Actively seeking for any full time job related to Data anlysis. ML, DL, CV or similer field. 
